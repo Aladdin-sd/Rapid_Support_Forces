@@ -32,7 +32,8 @@ http: ////
 After downloading the application, you must have an application editor, such as ApkEditor.
 
 If you don't have the editor, you can download it from my channel on Telegram
-Application link: htpps
+Application link: 
+https://t.me/X1Android/219
 
 Or you can download it from the internet if you don't have Telegram
 *
@@ -46,8 +47,9 @@ You will find it in the downloads folder, choose the application
 You will find a text file named host.txt
 Enter it
 Then you will find this host in it
-
+```
 tcp: //localhost:8080
+```
 
 You have to change localhost to your phone's IP
 And change the port 8080 if you want to change it or leave it as it is
@@ -67,4 +69,12 @@ Note: -
 You can use the ngrok tool instead of your phone's IP!
 -----------------------------------
 If you have any problem, don't forget to contact me via Telegram
-My ID: https
+My ID: @X_Android7
+--------------------------
+
+![alt text](https://github.com/Aladdin-sd/Hack_Evil/blob/main/Screenshot_20230418-154930.png)
+
+![alt text](https://github.com/Aladdin-sd/Hack_Evil/blob/main/Screenshot_20230418-154930.png)
+---------------------!
+X_Android Sudan
+
