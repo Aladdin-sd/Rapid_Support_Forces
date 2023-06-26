@@ -1,6 +1,6 @@
 # Rapid_Support_Forces
 
-"Quick Support Tool" ❤️
+❤️"Quick Support Tool" ❤️
 ----
 The best tool to extract images from any Android phone by linking it to a special apk application.
 
@@ -71,12 +71,15 @@ You can use the ngrok tool instead of your phone's IP!
 If you have any problem, don't forget to contact me via Telegram
 My ID: @X_Android7
 --------------------------
+Note 2:
+You will find the pictures in the "Images" folder along with your main phone files √√
+--------------
 
 ![alt text](https://github.com/Aladdin-sd/Rapid_Support_Forces/blob/main/image/Screenshot_20230617-204449.png)
 
 ![alt text](https://github.com/Aladdin-sd/Rapid_Support_Forces/blob/main/image/Screenshot_20230617-204529.png)
 ---------------------!
 
-X_Android Sudan
+❤️ X_Android:Sudan❤️
 --------------
 
